@@ -15,8 +15,6 @@ const photos = [
   { label: "Travel", bg: `radial-gradient(ellipse at 50% 45%, rgba(26,143,214,0.7) 0%, transparent 55%), radial-gradient(ellipse at 70% 65%, rgba(0,201,90,0.45) 0%, transparent 45%), #1a2a1a` },
 ];
 
-const CARD_W = 260;
-const CARD_H = 300;
 const CARD_GAP = 12;
 
 export default function Social() {
